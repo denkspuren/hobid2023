@@ -1,0 +1,413 @@
+---
+title: "Podcasting"
+subtitle: "for Research, Teaching and Reflection"
+author: "Dominikus Herzberg"
+institute: "Technische Hochschule Mittelhessen"
+format:
+    revealjs:
+        theme: white
+        slideNumber: true
+        footer: "HoBid 2023"
+---
+
+# Welcome
+
+## Are we complete? 🤸
+
+:::: {.columns}
+
+::: {.column width="50%"}
+Tuesday
+
+* Alice (Germany)
+* Chi Wui (Hong Kong)
+* Laure (Belgium)
+* Raquel (Brazil)
+* Sandra (Ghana)
+:::
+
+::: {.column width="50%"}
+Thursday
+
+* Xuewi (Finland)
+* Sabrina (Germany)
+* Jasmin (Germany)
+* Heike (Germany)
+* Eray (Turkey)
+* Frank (Germany)
+* Espen (Norway)
+:::
+
+::::
+
+## Your Feedback 📯
+
+Thank you very much!
+
+## My Expertise 🔩
+
+* [Webmontag](https://de.wikipedia.org/wiki/Webmontag) Gießen (2017-2019) (not available anymore)
+* [Masters of Higher Education](https://open.spotify.com/show/2buKQ22ylJymALnsoePvTc) (6/2020 - 11/2021)
+* [Radio Cölbe](https://open.spotify.com/show/4PfQUOQFiQOwJGWZgXJxCw) (6/2020 - ...)
+* [Herzbergs Hörsaal](https://open.spotify.com/show/5FDlXkn4fnAgp2ucaT7hL6) (Herzberg's Lecture Hall) (4/2020 - ...)
+* [YouTube videos](https://www.youtube.com/@DominikusHerzberg) in the spirit of Herzbergs Hörsaal
+
+I find podcasting deeply insightful and reflective; for me it's all about having a *conversation* and to *think aloud*
+
+## Timetable ⏱️
+
+* Welcome (5m)
+* Intro (20m)
+* Exemplary Kinds of Podcast Episodes (45m)
+* How do I Produce a Podcast Episode (15m)
+* Basic Knowledge and Setups (15m)
+* Try it out! Questions? (20m)
+
+# Intro
+
+## What is a Podcast? 
+
+Technically: Audio files for download and a RSS file 
+
+In principle, a podcast can be anything you might be interested listening to. Usually oral speech dominates, it might include music, sounds or sonic experiences. There is an overlap with audio formats you hear on radio. Everything you hear on radio might be declared as a podcast. Even audio books and radio plays might be called podcasts.
+
+> In what way differ podcasts from radio shows 📻?<br>What do you think?
+
+## My Approach to Podcasting 💑
+
+> Podcasting is about a conversation someone listens to
+
+- you talk to or with someone (imagined or real partner)
+- humans like to listen to conversations
+
+<center>
+<h1>🐁</h1> 
+</center>
+
+> Don't care about your listeners,<br>care about your conversation partner
+
+## Preparation Modes
+
+* Scripting 😢 (conversation?)
+* Notes and/or keywords ✏️
+* Title
+
+> Scripting is for YouTube
+
+## 1st Exercise ⌛ 5 min, 🧑
+
+**Give your students a study tip**
+
+* Topic: Flashcards (or choose another topic) 
+* Assignment: Prepare your podcast episode
+
+What do you want to tell?
+
+<br>
+<center>Don't google anything!</center>
+
+## 1st Exercise (My Prep)
+
+* What is a flashcard? Why useful?
+* The Science of forgetting and refreshing memories: active recall
+* How to use?
+* How to extract knowledge from a book or lecture and how to transform it into a flashcard
+* Front: Question, Back: Answer
+* Tools: analog, digital, experiences, recommendation
+
+## 1st Exercise: The Problem
+
+That's ok, but that's standard, you might find such an episode elsewhere, most likely on YouTube. It's a missed opportunity!
+
+- What does your topic have to do ...
+  - ... with you?
+  - ... with your science?
+  - ... with your courses?
+
+Make it relateable, personal, applicable in a domain, you and your potential listeners share!
+
+## 1st Exercise: The Six Pack Paradox
+
+::: {.incremental}
+* How to train your abs
+
+* It's not about training, it's about reducing body fat
+
+* Meaning: A better flashcard tool misses the point, specific tricks to better prepare a flashcard as well. It's about a behavioral change to produce flashcards and actually learn with them. Motivation, incentives and rewards are key and an implicit part of learning with flashcards.
+:::
+
+::: aside
+That's why we don't cover everything about how to craft a podcast season; the point is to get you started and to experiment with this medium
+:::
+
+## 1st Exercise cont. ⌛ 5 min, 🧑
+
+Answer these questions to yourself:
+
+- What does the topic have to do ...
+  - ... with you?
+  - ... with your science?
+  - ... with your courses?
+
+- How did I struggle?
+- What did I realize is even more important/essential?
+
+# Exemplary Kinds of Podcast Episodes
+
+## Record for Lectures 👩‍🏫
+
+Didactical challenge: Explain what others can't see (code, figures, diagrams, bullet lists, structure of your lecture); remember listeners don't see
+
+* Prepare drawings, mindmaps, notes, ... don't script
+* Remember: You talk to or with someone
+
+Your listeners may have a walk, ride the bike, do some house cleaning or gardening, are in a car or in a park. 
+
+> How do you help listeners stay with you?
+
+## Interviews 🎙️
+
+Scenario 1: Provide the questions in advance, edit the recording
+
+Scenario 2: Be prepared, have an idea where you might head to, know your first question, ... let it flow
+
+* Always introduce your guest
+* If remote: video helps for coordination
+* Always have some questions prepared in advance
+* Learn to practice to think aloud
+
+Example: LectureCast Episode 68 [edited](https://podcasters.spotify.com/pod/show/macromedia0/episodes/LectureCast--Episode-68-PodCast-als-Lern--und-Fortbildungsmedium-e27aao9/a-aa5l2r7), [unedited](https://podcasters.spotify.com/pod/show/dominikusherzberg/episodes/Zu-Besuch-beim-LectureCast-Podcasts-im-Hochschulkontext-e26qc35)
+
+## Study tips 📚, Recommendations 🧐, Insights 🧠
+
+* Prepare a little bit, take some notes
+* Just talk into the mic
+* Learn to practice to think aloud
+* Don't mind associative speaking
+* Do it in segments: Record, Stop/Pause, Record, ...
+* Remember: It's a conversation
+
+## Having a Co-Host or a Guest 💁
+
+* Wonderful, it's social right from the start
+* Learn to practice to think aloud
+* Don't mind associative speaking
+* Allow yourself to jump onto anything that might be interesting
+
+> Think about a recording a lecture with a student as a guest
+
+## Work with (royality free) Music 🎶
+
+It sets a tone, creates an atmosphere, eases 
+
+* Intro
+* to separate segments
+* Outro
+* Background (not recommended)
+
+## Remember:
+### Conversations are imperfect but interesting
+
+* Do you need to have a "result", a message, a coherent story?
+
+* Do you need to be a "perfect" speaker?
+
+<center><h3>
+no, it's a podcast
+</h3></center>
+
+* It is about storytelling (wary of storyselling)
+* More importantly: it's a conversation someone listens to
+
+> Practice to think aloud, practice associative thinking
+
+## 2nd Exercise ⌛ 30 min, 🧑 + 🧑(🧑) {.smaller}
+
+:::: {.columns}
+::: {.column width="60%" .incremental}
+1. Talk for 3 minutes straight into your smartphone
+   - use the topic you already prepared
+   - or: freestyle, whatever you like
+2. Listen to each others recording
+   - make notes about your observations
+   - don't talk about your notes
+3. Talk together about something for 3 minutes straight
+4. Listen to your recording, make notes about observations
+4. Compare and Discuss your experiences and your observations
+:::
+
+::: {.column width="40%"}
+Use a recording app on your smartphone
+
+* e.g. [Rekorder/Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder) (Google LLC), see Google Play Store
+* e.g. [GarageBand](https://apps.apple.com/de/app/garageband/id408709785) (Apple), see App Store
+* Use your smartphone camera and record a video
+
+Alternative for any device
+
+* [https://online-voice-recorder.com/](https://online-voice-recorder.com/)
+:::
+::::
+
+<center>
+It's not about perfection, it's about making an experience
+</center>
+
+# How do I Produce a Podcast Episode
+
+## My Production Mindset ⏺⏹⏵
+
+* Prepare
+* Record ⏺
+* Stop ⏹
+* Upload
+* Distribute ⏵
+
+My role model for this mindset is [Jörn Loviscach](https://j3l7h.de/)
+
+## Ignition ✨
+
+* There is a lecture to prepare
+* Something happened in class
+* I read a book and would like to talk to the author
+* I met an interesting person
+* I feel an urge to communicate something
+* I reflected on my research, teaching, studying, ...
+* I think I need to adress something to my students
+* ...
+
+## Prepare 🔨 + 📓
+
+* Work through a book
+* Prepare the lecture
+* Make notes (dictate) while walking the dog
+* Scribble down some points
+* ... or don't prepare at all
+
+## Go for it 🗣
+
+* Talk into the mic
+* Talk to or with someone
+
+Either you have
+
+* a guest or a co-host
+* or you imagine talking to a person
+
+## Where do you get your inspiration and ideas from? 💡
+
+### You need something to talk about!
+
+Discuss, introduce, explain, analyze, criticize, ...
+
+* Books or articles or news from your field
+* Ideas that float around on social media
+
+### Invite others
+
+* Authors, researchers, students, practitioners, ...
+
+# Basic Knowledge and Setups
+
+* Microphone, Setup, Platform
+
+## Microphones
+
+* USB vs. XLR (amateur or professional or both)
+* dynamic vs. condensor (sensitivity: room treatment or not)
+* stationary or mobile (handling noise)
+
+## Speaking Technique
+
+* Close to the mic<br>
+  (proximity effect, best for untreated rooms, little ambient noise, if at all, depends on mic characteristic)
+* Use a pop filter or speak a little bit to the side
+* Ähm/Um ... (thinking pause) reduced use can be trained;<br>if not overused: no one cares
+
+## Basic Decision: Audio Interface or all-in-one Solution
+
+* control vs. spontaneity
+* pre- vs. postprocessing
+* perfectionism vs. GTD
+
+## Audio Recording and Editing Software
+
+* [Adobe Audition](https://www.adobe.com/de/products/audition.html)
+* [Audacity](https://www.audacityteam.org/), [Tenacity](https://tenacityaudio.org/) (fork)
+* Apple GarageBand for MacOS, iOS
+
+## Overview
+
+5 Recording setups you can start with
+
+## Setup: Computer only + 🎤(🎤)
+
+* Røde PodMic USB (240€) - dynamic mic with built-in preprocessor, comes with pop filter, also has XLR
+* Tripod or Table Stand (30-50€) or Studio Arm (140€)
+* Over Ear Headphones (~40€)
+
+Free Software: Røde Connect (recording) with sounds/music, Røde Central (PodMic USB configuration)
+
+## Setup: RØDECaster 🎤 - 🎤🎤🎤🎤
+ 
+* RØDECaster Duo (1-2 persons) (~550€)<br>
+  RØDECaster Pro II (1-4 persons) (~700€)
+* Røde PodMic (100€) - dynamic mic, XLR
+* XLR cable (10€)
+* Pop filter (10€)
+* Table Stand (30€) or Studio Arm (140€)
+* Over-ear Headphones (~40€)
+* SSD memory card (10€)
+
+## Setup: Audio Interface 🎤 - 🎤🎤(🎤🎤)
+
+Cheap: No pre-processing (quality still fine), post-processing (optional)
+
+* Audio Interface (Solo, Duo)
+* Microphone
+* Mic Stand
+
+## Setup: Field Recorder 🎤 - 🎤🎤, 🌤️
+
+No pre-processing, post-processing required
+
+* Field Recorder Zoom F3 (32-bit float, mobile solution)
+* XLR microphone, e.g. Røde Reporter (140€)
+
+## Setup: Smartphone + AI 🎤
+
+* Use a recording app on your smartphone
+* Upload file to [Adobe Podcast AI](https://podcast.adobe.com/enhance) for post-processing
+
+## Where to get your Equipment from?
+
+* [Amazon](https://www.amazon.de/)
+* [Thomann](https://www.thomann.de/)
+* [Music Store](https://www.musicstore.de/)
+
+## Platform
+
+* Spotify for Podcasters<br>
+  https://podcasters.spotify.com/, formerly https://anchor.fm
+* Interesting potential candidate: https://podcast.adobe.com/
+* Internet search: "podcast hosting" (mostly paid hosting)
+
+Services: upload, hosting and distribution, simple editing, adding music/sounds, analytics (in case you care)
+
+## Talk with a remote partner
+
+* [Zoom](https://zoom.us/)
+* [Riverside](https://riverside.fm/) (limited free use)
+* [Studio-Link](https://www.studio-link.de/) (for techies)
+* Phone call (e.g. with RØDECaster devices)
+
+Instruct guests before recording (prepare a standard email or a document with everything your guest should know)
+
+# Try it out! Questions?
+
+* There is some equipment to see and use
+* Any questions? I'm happy to answer them
+
+<br>
+<center><h1>🙏</h1></center>
+
