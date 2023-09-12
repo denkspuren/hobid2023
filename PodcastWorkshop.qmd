@@ -20,7 +20,7 @@ format:
 Tuesday
 
 * Alice (Germany)
-* Chi Wui (Hong Kong)
+* Ross (Hong Kong)
 * Laure (Belgium)
 * Raquel (Brazil)
 * Sandra (Ghana)
@@ -231,9 +231,9 @@ no, it's a podcast
 2. Listen to each others recording
    - make notes about your observations
    - don't talk about your notes
-3. Talk together about something for 3 minutes straight
+3. Talk together about something for 3 minutes straight and record your conversation
 4. Listen to your recording, make notes about observations
-4. Compare and Discuss your experiences and your observations
+5. Compare and Discuss your experiences and your observations
 :::
 
 ::: {.column width="40%"}
