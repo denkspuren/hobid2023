@@ -412,7 +412,13 @@ Instruct guests before recording (prepare a standard email or a document with ev
 <br>
 <center><h1>🙏</h1></center>
 
-## License
+## Literature {.smaller}
+
+Cook, I. M. (2023). Scholarly Podcasting: Why, What, How? [Routledge](https://www.routledge.com/Scholarly-Podcasting-Why-What-How/Cook/p/book/9780367439446). 
+
+Drew, C. (2017). Educational podcasts: A  genre analysis. _E-Learning and Digital Media_, 14(4), 201–211. [https://doi.org/10.1177/2042753017736177](https://doi.org/10.1177/2042753017736177) ^[Thank you, Frank!]
+
+Klenk, M. (2020). Sprechendes Denken: Essays zu einer experimentellen Kulturwissenschaft. [transcript](https://www.transcript-verlag.de/978-3-8376-5262-8). ^[Tim Pritlove talks with Moritz Klenk about "Sprechendes Denken" in [CRE220 Sprechendes Denken](https://cre.fm/cre220-sprechendes-denken).]
 
 ::: aside
 This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). The source code of the slides is available [here](https://github.com/denkspuren/hobid2023).
