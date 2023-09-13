@@ -1,16 +1,13 @@
 # HoBid 2023: Podcasting-Workshop
 
-Hier finden sich die Folien, die ich bei meinen beiden Podcasting-Workshops auf der HoBid 2023 verwendet habe.
+Here are the slides that I used for the two podcasting workshops that I gave at HoBid 2023.
 
-Die Hobid 2023 ist die internationale Summer School _Approaches to Research on Teaching and Learning in Higher Education_, die nun zum 3. Mal stattfindet, dieses Jahr vom 11.-15. September 2023 in Paderborn.
+Hobid 2023 is the international summer school _Approaches to Research on Teaching and Learning in Higher Education_, now in its 3rd year, this year from September 11-15, 2023 in Paderborn, Germany.
 
-Die Markdown-Datei `PodcastWorkshop.qmd` habe ich in Visual Studio Code erstellt und mittels [Quarto](https://quarto.org/) (Version 1.3.450) in eine [revealjs](https://revealjs.com/)-Präsentation übersetzt. Die dafür notwendige Dokumentation ist [hier](https://quarto.org/docs/presentations/revealjs/) zu finden. Das Ergebnis kann unter
+I created the Markdown file `PodcastWorkshop.qmd` in Visual Studio Code and translated it into a [revealjs](https://revealjs.com/) presentation using [Quarto](https://quarto.org/) (version 1.3.450). The Quarto documentation can be found [here](https://quarto.org/docs/presentations/revealjs/). The result (i.e. the slides) can be viewed at
 
 [https://denkspuren.github.io/hobid2023/](https://denkspuren.github.io/hobid2023/)
 
-betrachtet werden.
+The two hours scheduled for each workshop proved to be too short. I was barely able to get past the second exercise in that time. I guess the workshop would take more like 3-4 hours.
 
-Die für die Workshops jeweils zur Verfügung stehenden zwei Stunden haben sich als zu knapp für meine Planung erwiesen. In der Zeit ist gerade das zweite Exercise durch. Der Workshop benötigt in der vorliegenden Konzeption eher 3-4 Stunden.
-
-Leider lässt sich aus den Folien keine brauchbare PDF-Fassung erzeugen, da die Unicode-Zeichen dann unglücklicherweise fehlen.
-
+Unfortunately, it is not possible to create a usable PDF from the slides, because the Unicode characters are missing.
