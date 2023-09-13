@@ -5,6 +5,7 @@ author: "Dominikus Herzberg"
 institute: "Technische Hochschule Mittelhessen"
 format:
     revealjs:
+        logo: https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png
         theme: white
         slideNumber: true
         footer: "HoBid 2023"
@@ -411,3 +412,8 @@ Instruct guests before recording (prepare a standard email or a document with ev
 <br>
 <center><h1>🙏</h1></center>
 
+## License
+
+::: aside
+This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). The source code of the slides is available [here](https://github.com/denkspuren/hobid2023).
+:::
