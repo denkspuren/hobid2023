@@ -26,4 +26,6 @@ The key point is: A conversation is something humans are drawn to. That's why pe
 
 Storytelling can add to the mix, an interesting topic can draw attention, a clear narrative structure can help with understanding. But the key is to have a conversation. Even a seemingly boring conversation without a story or a storyline is interesting in itself. A conversation is, by definition, communicative and social; that's why it will find its listeners. Don't care who might be interested, someone will.
 
-Press record and speak into the microphone. Some preparation helps, but it's not required. Talk to an imaginary person or a real person to make it a conversation.
+Press record and speak into the microphone. Some preparation helps, but it's not mandatory. Talk to an imaginary person or a real person to make it a conversation.
+
+Reading a speech script to an audience is not a conversation even if its a scripted dialogue. It's acting, it's role-playing. You may be simulating a conversation, but you're not actually performing a conversation.
